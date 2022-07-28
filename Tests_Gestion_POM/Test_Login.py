@@ -2,7 +2,6 @@ import time
 import unittest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-# from selenium.webdriver.firefox.service import Service
 from PagesGestion.PageLogin import PageLogin
 
 
