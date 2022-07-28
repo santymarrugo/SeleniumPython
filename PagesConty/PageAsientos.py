@@ -21,6 +21,7 @@ class PageAsientos:
         self.rbEditarMesAsiento =(By.XPATH, "//input[contains(@id,'inputAsiento2')]")
         self.rbPrimerMes = (By.XPATH, "//input[contains(@value,'1/2022')]")
         self.lblVerificarAsiento = (By.XPATH, "//label[contains(text(), 'Asientos 1/2022')]")
+        self.btnNuevaLinea = (By.XPATH, "//i[@class='material-icons'][contains(.,'note_add')]")
 
 
     '''
@@ -57,6 +58,20 @@ class PageAsientos:
         lblMesAsiento = self.driver.find_element(*self.lblVerificarAsiento).text
         tcAssert.assertEqual(lblMesAsiento, mensaje)
 
-    def escribirAsiento(self):
-        pass
+    def clickAgregarLineaAsiento(self):
+        self.driver.find_element(*self.btnNuevaLinea).click()
+
+    def escribirLineaAsiento(self):
+        self.driver.execute_script('return hot.selectCell(0,5)')
+        diaAsiento = self.driver.execute_script('return hot.getValue()')
+        print(diaAsiento)
+
+    def clickCrearMes(self):
+        self.driver.find_element(*self.rbCrearMes).click()
+
+    def escribirMesAnioAsiento(self):
+        self.driver.find_element(*self.inputMesAnio).click()
+        # self.driver.find_element(*self.inputMesAnio).send_keys(Keys.CONTROL('a'))
+        # self.driver.find_element(*self.inputMesAnio).send_keys(fecha)
+
 

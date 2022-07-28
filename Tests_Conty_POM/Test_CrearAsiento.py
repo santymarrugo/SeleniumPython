@@ -30,9 +30,10 @@ class CrearAsiento(unittest.TestCase):
         self.page_login.inicioExitoso("Inicio")
         self.page_crear_asiento.accederAsientos()
         self.page_crear_asiento.verificarVentanaAsiento("Asientos - Selección", "Asientos")
-        self.page_crear_asiento.editarMesAsiento()
+        self.page_crear_asiento.clickCrearMes()
+        self.page_crear_asiento.escribirMesAnioAsiento()
         self.page_crear_asiento.clickAceptarAsientos()
-        self.page_crear_asiento.verificarMesAsiento("Asientos 1/2022")
 
     def tearDown(self):
         pass
+        # self.driver.quit()
