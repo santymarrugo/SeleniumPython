@@ -18,6 +18,10 @@ class PageAsientos:
         self.rbCrearMes = (By.XPATH, "//input[contains(@id,'inputAsiento1')]")
         self.inputMesAnio = (By.XPATH, "//input[contains(@id,'FechaNuevoAsiento')]")
         self.btnAceptarAsientos = (By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
+        self.rbEditarMesAsiento =(By.XPATH, "//input[contains(@id,'inputAsiento2')]")
+        self.rbPrimerMes = (By.XPATH, "//input[contains(@value,'1/2022')]")
+        self.lblVerificarAsiento = (By.XPATH, "//label[contains(text(), 'Asientos 1/2022')]")
+
 
     '''
     Metodo para acceder a la opcion Asientos y que se muestre el PopUp para escoger la fecha del asiento
@@ -32,9 +36,27 @@ class PageAsientos:
     Metodo para verificar que texto al momento de hacer click en la opcion asientos, y asegurar que se haya ingresado
     exitosamente a esa opcion.
     '''
-    def ventanaAsiento(self, txtmensaje, txtmensajeModal):
+    def verificarVentanaAsiento(self, txtmensaje, txtmensajeModal):
         tcAssert = unittest.TestCase("__init__")
         txtSeleccion = self.driver.find_element(*self.labelAsientoSeleccion).text
         txtAModal = self.driver.find_element(*self.labelAsientoModal).text
         tcAssert.assertEqual(txtSeleccion, txtmensaje)
         tcAssert.assertEquals(txtAModal, txtmensajeModal)
+
+    def editarMesAsiento(self):
+        self.driver.find_element(*self.rbEditarMesAsiento).click()
+        WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.rbPrimerMes))
+        self.driver.find_element(*self.rbPrimerMes).click()
+
+    def clickAceptarAsientos(self):
+        self.driver.find_element(*self.btnAceptarAsientos).click()
+
+    def verificarMesAsiento(self, mensaje):
+        WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.lblVerificarAsiento))
+        tcAssert = unittest.TestCase("__init__")
+        lblMesAsiento = self.driver.find_element(*self.lblVerificarAsiento).text
+        tcAssert.assertEqual(lblMesAsiento, mensaje)
+
+    def escribirAsiento(self):
+        pass
+
