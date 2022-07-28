@@ -1,4 +1,3 @@
-import time
 import unittest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -25,7 +24,7 @@ class PageAsientos:
     '''
     def accederAsientos(self):
         self.driver.find_element(*self.btnMenuPrincipal).click()
-        time.sleep(1)
+        WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.opCarpetas))
         self.driver.find_element(*self.opCarpetas).click()
         self.driver.find_element(*self.opAsiento).click()
 
@@ -39,5 +38,3 @@ class PageAsientos:
         txtAModal = self.driver.find_element(*self.labelAsientoModal).text
         tcAssert.assertEqual(txtSeleccion, txtmensaje)
         tcAssert.assertEquals(txtAModal, txtmensajeModal)
-        print(txtSeleccion)
-        print(txtAModal)

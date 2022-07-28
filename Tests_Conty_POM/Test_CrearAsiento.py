@@ -2,7 +2,7 @@ import time
 import unittest
 
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+# from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.firefox.service import Service
 from PagesConty.PageLogin import PageLogin
 from PagesConty.PageAsientos import PageAsientos
@@ -11,7 +11,9 @@ from PagesConty.PageAsientos import PageAsientos
 class CrearAsiento(unittest.TestCase):
 
     def setUp(self):
-        self.driver = webdriver.Firefox(service=Service("../geckodriver.exe"))
+        firefox_profile = webdriver.FirefoxProfile()
+        firefox_profile.set_preference("browser.privatebrowsing.autostart", True)
+        self.driver = webdriver.Firefox(firefox_profile, service=Service("../geckodriver.exe"))
         self.driver.get("https://memorycontywebtesting.azurewebsites.net")
         self.driver.maximize_window()
 
