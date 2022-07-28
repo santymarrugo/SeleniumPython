@@ -1,0 +1,572 @@
+1659010467683	geckodriver	INFO	Listening on 127.0.0.1:52126
+1659010468072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilebd3LD7"
+1659010468786	Marionette	INFO	Marionette enabled
+1659010468791	Marionette	INFO	Listening on port 52135
+WebDriver BiDi listening on ws://localhost:52127
+Read port: 52135
+1659010469039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilebd3LD7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52127/devtools/browser/126137f4-7868-47e2-a400-c88542307b21
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659010476867	Marionette	INFO	Stopped listening on port 52135
+1659010477901	geckodriver	INFO	Listening on 127.0.0.1:52152
+1659010478243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJVOfxh"
+1659010479096	Marionette	INFO	Marionette enabled
+1659010479100	Marionette	INFO	Listening on port 52161
+WebDriver BiDi listening on ws://localhost:52153
+Read port: 52161
+1659010479264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJVOfxh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52153/devtools/browser/5bce4a48-31b6-47a3-be1f-a57a18d1e71b
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659010486717	Marionette	INFO	Stopped listening on port 52161
+1659010487695	geckodriver	INFO	Listening on 127.0.0.1:52179
+1659010488069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekuiAHv"
+1659010488821	Marionette	INFO	Marionette enabled
+1659010488835	Marionette	INFO	Listening on port 52187
+WebDriver BiDi listening on ws://localhost:52180
+Read port: 52187
+1659010489189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekuiAHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52180/devtools/browser/ea888fae-f910-4365-a9fc-bd95ca803902
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659010500845	Marionette	INFO	Stopped listening on port 52187
+1659010502788	geckodriver	INFO	Listening on 127.0.0.1:52210
+1659010504610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileGmkXzk"
+1659010505744	Marionette	INFO	Marionette enabled
+1659010505753	Marionette	INFO	Listening on port 52222
+WebDriver BiDi listening on ws://localhost:52211
+Read port: 52222
+1659010505995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileGmkXzk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52211/devtools/browser/ed15f9c4-7fff-4a9f-8bdb-be04d28a5d34
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659010515311	Marionette	INFO	Stopped listening on port 52222
+1659010516919	geckodriver	INFO	Listening on 127.0.0.1:52241
+1659010517141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52242" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile4qZjUD"
+1659010517817	Marionette	INFO	Marionette enabled
+1659010517821	Marionette	INFO	Listening on port 52250
+WebDriver BiDi listening on ws://localhost:52242
+Read port: 52250
+1659010518116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile4qZjUD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52242/devtools/browser/ed21ed07-b373-4240-adf8-7299634816c9
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 278: NS_ERROR_FAILURE: Should pass a non-null uri
+1659010527320	Marionette	INFO	Stopped listening on port 52250
+1659010577248	geckodriver	INFO	Listening on 127.0.0.1:52322
+1659010577617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileL02FMQ"
+1659010578310	Marionette	INFO	Marionette enabled
+1659010578315	Marionette	INFO	Listening on port 52331
+WebDriver BiDi listening on ws://localhost:52324
+Read port: 52331
+1659010578458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileL02FMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52324/devtools/browser/69226d0c-4c81-4195-8d93-b3733e11d315
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010593144	Marionette	INFO	Stopped listening on port 52331
+1659010594797	geckodriver	INFO	Listening on 127.0.0.1:52390
+1659010595118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegMvHNh"
+1659010595833	Marionette	INFO	Marionette enabled
+1659010595838	Marionette	INFO	Listening on port 52401
+WebDriver BiDi listening on ws://localhost:52391
+Read port: 52401
+1659010596007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegMvHNh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52391/devtools/browser/c172fff0-6c3b-4a63-abd3-1d2500c1c828
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010601988	Marionette	INFO	Stopped listening on port 52401
+1659010603349	geckodriver	INFO	Listening on 127.0.0.1:52427
+1659010603577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefFvVWt"
+1659010604186	Marionette	INFO	Marionette enabled
+1659010604193	Marionette	INFO	Listening on port 52435
+WebDriver BiDi listening on ws://localhost:52428
+Read port: 52435
+1659010604401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefFvVWt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52428/devtools/browser/3dc0e2fe-0c32-4732-9d28-60062eb93486
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010612632	Marionette	INFO	Stopped listening on port 52435
+1659010614532	geckodriver	INFO	Listening on 127.0.0.1:52467
+1659010614664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileD2OWqz"
+1659010616217	Marionette	INFO	Marionette enabled
+1659010616230	Marionette	INFO	Listening on port 52476
+Read port: 52476
+WebDriver BiDi listening on ws://localhost:52468
+1659010616672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileD2OWqz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52468/devtools/browser/1b2b28c9-da3f-4dec-a87b-e810f20a56e3
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010629668	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659010630090	Marionette	INFO	Stopped listening on port 52476
+1659010632635	geckodriver	INFO	Listening on 127.0.0.1:52553
+1659010632914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilepwPeqN"
+1659010634027	Marionette	INFO	Marionette enabled
+1659010634039	Marionette	INFO	Listening on port 52563
+WebDriver BiDi listening on ws://localhost:52554
+Read port: 52563
+1659010634460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilepwPeqN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52554/devtools/browser/0398f476-389d-4b5f-ac0c-12f62fde87c1
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010645735	Marionette	INFO	Stopped listening on port 52563
+1659010675840	geckodriver	INFO	Listening on 127.0.0.1:52617
+1659010676045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileTwen3p"
+1659010676557	Marionette	INFO	Marionette enabled
+1659010676563	Marionette	INFO	Listening on port 52626
+WebDriver BiDi listening on ws://localhost:52618
+Read port: 52626
+1659010676731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileTwen3p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52618/devtools/browser/bbeda1ae-676d-4667-8ca0-581d28cb4657
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010687156	Marionette	INFO	Stopped listening on port 52626
+1659010689377	geckodriver	INFO	Listening on 127.0.0.1:52677
+1659010689493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiledPAlfH"
+1659010690306	Marionette	INFO	Marionette enabled
+1659010690314	Marionette	INFO	Listening on port 52686
+WebDriver BiDi listening on ws://localhost:52678
+Read port: 52686
+1659010690610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiledPAlfH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52678/devtools/browser/d459aff6-39df-4df0-803b-da6ae6c801be
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010697520	Marionette	INFO	Stopped listening on port 52686
+1659010699746	geckodriver	INFO	Listening on 127.0.0.1:52714
+1659010699803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileUUrwbL"
+1659010700788	Marionette	INFO	Marionette enabled
+1659010700800	Marionette	INFO	Listening on port 52723
+WebDriver BiDi listening on ws://localhost:52715
+Read port: 52723
+1659010701118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileUUrwbL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52715/devtools/browser/ed5fc302-5d6e-4780-9378-3ab1e6cc47bc
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010708445	Marionette	INFO	Stopped listening on port 52723
+1659010710108	geckodriver	INFO	Listening on 127.0.0.1:52754
+1659010710272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegUuWlM"
+1659010710992	Marionette	INFO	Marionette enabled
+1659010710998	Marionette	INFO	Listening on port 52763
+WebDriver BiDi listening on ws://localhost:52755
+Read port: 52763
+1659010711232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegUuWlM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52755/devtools/browser/5b787ae2-db23-4915-bed8-c22dd754df71
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010718009	Marionette	INFO	Stopped listening on port 52763
+1659010719665	geckodriver	INFO	Listening on 127.0.0.1:52790
+1659010719817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52791" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilejmkYGh"
+1659010720556	Marionette	INFO	Marionette enabled
+1659010720563	Marionette	INFO	Listening on port 52798
+WebDriver BiDi listening on ws://localhost:52791
+Read port: 52798
+1659010720778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilejmkYGh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52791/devtools/browser/912a8eda-996b-4a14-9168-d7d4e5b6f345
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010727054	Marionette	INFO	Stopped listening on port 52798
+1659010744050	geckodriver	INFO	Listening on 127.0.0.1:52833
+1659010744400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilezBLagW"
+1659010744889	Marionette	INFO	Marionette enabled
+1659010744893	Marionette	INFO	Listening on port 52842
+WebDriver BiDi listening on ws://localhost:52834
+Read port: 52842
+1659010745041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilezBLagW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52834/devtools/browser/70d184ec-c873-4cee-ae86-171a495d505a
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010753947	Marionette	INFO	Stopped listening on port 52842
+1659010755283	geckodriver	INFO	Listening on 127.0.0.1:52893
+1659010755517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52894" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileg8clL7"
+1659010756153	Marionette	INFO	Marionette enabled
+1659010756161	Marionette	INFO	Listening on port 52902
+WebDriver BiDi listening on ws://localhost:52894
+Read port: 52902
+1659010756352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileg8clL7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52894/devtools/browser/f7b83c17-ad0b-416f-82f4-012ae49f9cf0
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010762602	Marionette	INFO	Stopped listening on port 52902
+1659010763823	geckodriver	INFO	Listening on 127.0.0.1:52931
+1659010764069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileS9X6RC"
+1659010764833	Marionette	INFO	Marionette enabled
+1659010764841	Marionette	INFO	Listening on port 52940
+WebDriver BiDi listening on ws://localhost:52932
+Read port: 52940
+1659010765062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileS9X6RC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52932/devtools/browser/1f416952-eb0d-4700-913a-30bc931091ac
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010773683	Marionette	INFO	Stopped listening on port 52940
+1659010775275	geckodriver	INFO	Listening on 127.0.0.1:52983
+1659010775488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileT28vkl"
+1659010776699	Marionette	INFO	Marionette enabled
+1659010776710	Marionette	INFO	Listening on port 52991
+WebDriver BiDi listening on ws://localhost:52984
+Read port: 52991
+1659010776978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileT28vkl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52984/devtools/browser/5fd778ad-d587-4ac3-8731-32b29b2fc781
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010784760	Marionette	INFO	Stopped listening on port 52991
+1659010786277	geckodriver	INFO	Listening on 127.0.0.1:53023
+1659010786499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile2yJKCo"
+1659010787366	Marionette	INFO	Marionette enabled
+1659010787374	Marionette	INFO	Listening on port 53032
+WebDriver BiDi listening on ws://localhost:53024
+Read port: 53032
+1659010787614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile2yJKCo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53024/devtools/browser/e7988c6a-b897-4610-80fb-4aef25814b85
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010795824	Marionette	INFO	Stopped listening on port 53032
+1659010823607	geckodriver	INFO	Listening on 127.0.0.1:53084
+1659010823784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileW6tR3k"
+1659010824341	Marionette	INFO	Marionette enabled
+1659010824347	Marionette	INFO	Listening on port 53092
+WebDriver BiDi listening on ws://localhost:53085
+Read port: 53092
+1659010824552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileW6tR3k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53085/devtools/browser/7cb6edfe-908e-44f0-a500-79136873fb5f
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010834447	Marionette	INFO	Stopped listening on port 53092
+1659010835847	geckodriver	INFO	Listening on 127.0.0.1:53149
+1659010836036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileOVx2cm"
+1659010836684	Marionette	INFO	Marionette enabled
+1659010836690	Marionette	INFO	Listening on port 53158
+WebDriver BiDi listening on ws://localhost:53150
+Read port: 53158
+1659010836939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileOVx2cm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53150/devtools/browser/edb98dd2-1d1f-44dd-9390-62d89530e611
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010843280	Marionette	INFO	Stopped listening on port 53158
+1659010844897	geckodriver	INFO	Listening on 127.0.0.1:53197
+1659010845015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileRMqFVt"
+1659010845660	Marionette	INFO	Marionette enabled
+1659010845666	Marionette	INFO	Listening on port 53207
+WebDriver BiDi listening on ws://localhost:53198
+Read port: 53207
+1659010845848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileRMqFVt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53198/devtools/browser/9b6424a8-d5a3-4e47-a776-f6d7def69713
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010851459	Marionette	INFO	Stopped listening on port 53207
+1659010852631	geckodriver	INFO	Listening on 127.0.0.1:53232
+1659010852890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemu1PbQ"
+1659010853499	Marionette	INFO	Marionette enabled
+1659010853507	Marionette	INFO	Listening on port 53240
+WebDriver BiDi listening on ws://localhost:53233
+Read port: 53240
+1659010853730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemu1PbQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53233/devtools/browser/44fad193-2aa4-42ca-a62c-84735a98dd49
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010859411	Marionette	INFO	Stopped listening on port 53240
+1659010860564	geckodriver	INFO	Listening on 127.0.0.1:53267
+1659010860816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9paZfa"
+1659010861344	Marionette	INFO	Marionette enabled
+1659010861351	Marionette	INFO	Listening on port 53276
+WebDriver BiDi listening on ws://localhost:53268
+Read port: 53276
+1659010861538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9paZfa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53268/devtools/browser/66338273-a60d-4e2a-8ba7-5902c03347b0
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010867568	Marionette	INFO	Stopped listening on port 53276
+1659010924359	geckodriver	INFO	Listening on 127.0.0.1:53335
+1659010924730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilexSO1uv"
+*** You are running in headless mode.
+1659010925196	Marionette	INFO	Marionette enabled
+1659010925200	Marionette	INFO	Listening on port 53343
+WebDriver BiDi listening on ws://localhost:53336
+Read port: 53343
+1659010925399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilexSO1uv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53336/devtools/browser/b70558cf-d145-47c5-80c8-e84d7f19213a
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010933578	Marionette	INFO	Stopped listening on port 53343
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953693
+1659010934891	geckodriver	INFO	Listening on 127.0.0.1:53414
+1659010935280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile20pXze"
+*** You are running in headless mode.
+1659010935808	Marionette	INFO	Marionette enabled
+1659010935814	Marionette	INFO	Listening on port 53425
+WebDriver BiDi listening on ws://localhost:53415
+Read port: 53425
+1659010935985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile20pXze\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53415/devtools/browser/afd792ac-1bc3-4f03-9454-da8b31ade2b3
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010940099	Marionette	INFO	Stopped listening on port 53425
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953694
+1659010941216	geckodriver	INFO	Listening on 127.0.0.1:53462
+1659010941610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilewbbkfB"
+*** You are running in headless mode.
+1659010942073	Marionette	INFO	Marionette enabled
+1659010942077	Marionette	INFO	Listening on port 53471
+WebDriver BiDi listening on ws://localhost:53463
+Read port: 53471
+1659010942218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilewbbkfB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53463/devtools/browser/0edd1a58-18c2-41f0-a3ed-e00f9ded4220
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010947400	Marionette	INFO	Stopped listening on port 53471
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953694
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\MARR80~1\AppData\Local\Temp\rust_mozprofilewbbkfB\protections.sqlite
+1659010949224	geckodriver	INFO	Listening on 127.0.0.1:53513
+1659010949461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileA4vSXF"
+*** You are running in headless mode.
+1659010950094	Marionette	INFO	Marionette enabled
+1659010950099	Marionette	INFO	Listening on port 53521
+WebDriver BiDi listening on ws://localhost:53514
+Read port: 53521
+1659010950294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileA4vSXF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53514/devtools/browser/259f5498-f40f-4dac-bb3a-367935ff68f7
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010954955	Marionette	INFO	Stopped listening on port 53521
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953688
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\MARR80~1\AppData\Local\Temp\rust_mozprofileA4vSXF\protections.sqlite
+1659010956209	geckodriver	INFO	Listening on 127.0.0.1:53558
+1659010956392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiler7QaCq"
+*** You are running in headless mode.
+1659010957120	Marionette	INFO	Marionette enabled
+1659010957126	Marionette	INFO	Listening on port 53566
+WebDriver BiDi listening on ws://localhost:53559
+Read port: 53566
+1659010957315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiler7QaCq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53559/devtools/browser/1e2629c5-9314-4947-898e-3858934a6e50
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010962061	Marionette	INFO	Stopped listening on port 53566
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953695
+1659010974586	geckodriver	INFO	Listening on 127.0.0.1:53613
+1659010974924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileB0T3G5"
+*** You are running in headless mode.
+1659010975570	Marionette	INFO	Marionette enabled
+1659010975574	Marionette	INFO	Listening on port 53622
+WebDriver BiDi listening on ws://localhost:53614
+Read port: 53622
+1659010975738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileB0T3G5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53614/devtools/browser/00140b9f-7a0f-4d37-84e1-b51f3840b938
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659010983974	Marionette	INFO	Stopped listening on port 53622
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953688
+1659010985092	geckodriver	INFO	Listening on 127.0.0.1:53682
+1659010985337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3yo1sm"
+*** You are running in headless mode.
+1659010985971	Marionette	INFO	Marionette enabled
+1659010985977	Marionette	INFO	Listening on port 53690
+WebDriver BiDi listening on ws://localhost:53683
+Read port: 53690
+1659010986132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3yo1sm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53683/devtools/browser/703d8db2-d75a-476d-b38e-2fa5c0974f07
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010991060	Marionette	INFO	Stopped listening on port 53690
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953694
+1659010992378	geckodriver	INFO	Listening on 127.0.0.1:53728
+1659010992625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileuY1kzN"
+*** You are running in headless mode.
+1659010993164	Marionette	INFO	Marionette enabled
+1659010993169	Marionette	INFO	Listening on port 53735
+WebDriver BiDi listening on ws://localhost:53729
+Read port: 53735
+1659010993343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileuY1kzN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53729/devtools/browser/e1a2890c-9be0-403d-a56c-496bcd2e505f
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659010997731	Marionette	INFO	Stopped listening on port 53735
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953695
+1659010998845	geckodriver	INFO	Listening on 127.0.0.1:53772
+1659010999024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekCUbUW"
+*** You are running in headless mode.
+1659010999567	Marionette	INFO	Marionette enabled
+1659010999573	Marionette	INFO	Listening on port 53781
+WebDriver BiDi listening on ws://localhost:53773
+Read port: 53781
+1659010999735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekCUbUW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53773/devtools/browser/38825e64-b5b7-4db3-ae18-c0a9a850e49c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011004548	Marionette	INFO	Stopped listening on port 53781
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953695
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\MARR80~1\AppData\Local\Temp\rust_mozprofilekCUbUW\protections.sqlite
+1659011006222	geckodriver	INFO	Listening on 127.0.0.1:53817
+1659011006427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile8n8rOp"
+*** You are running in headless mode.
+1659011007150	Marionette	INFO	Marionette enabled
+1659011007156	Marionette	INFO	Listening on port 53826
+WebDriver BiDi listening on ws://localhost:53818
+Read port: 53826
+1659011007347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile8n8rOp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53818/devtools/browser/1a5d1bce-7177-48f7-aa20-9b964b0a1ed0
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011012582	Marionette	INFO	Stopped listening on port 53826
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953690
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1109: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\MARR80~1\AppData\Local\Temp\rust_mozprofile8n8rOp\protections.sqlite
+1659011029117	geckodriver	INFO	Listening on 127.0.0.1:53873
+1659011029289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileRwvb8S"
+*** You are running in headless mode.
+1659011029931	Marionette	INFO	Marionette enabled
+1659011029937	Marionette	INFO	Listening on port 53881
+WebDriver BiDi listening on ws://localhost:53874
+Read port: 53881
+1659011030119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileRwvb8S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53874/devtools/browser/f67ab78b-a76c-4b6b-948f-db2aab47df8e
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659011039074	Marionette	INFO	Stopped listening on port 53881
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953694
+1659011040555	geckodriver	INFO	Listening on 127.0.0.1:53941
+1659011040739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileuhxt3X"
+*** You are running in headless mode.
+1659011041770	Marionette	INFO	Marionette enabled
+1659011041777	Marionette	INFO	Listening on port 53949
+WebDriver BiDi listening on ws://localhost:53942
+Read port: 53949
+1659011041960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileuhxt3X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53942/devtools/browser/ee11b5fd-b17d-4cf3-8ed2-bc4bf02e8ef5
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011046844	Marionette	INFO	Stopped listening on port 53949
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953697
+1659011048367	geckodriver	INFO	Listening on 127.0.0.1:53986
+1659011048554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileC6s67N"
+*** You are running in headless mode.
+1659011049231	Marionette	INFO	Marionette enabled
+1659011049238	Marionette	INFO	Listening on port 53994
+WebDriver BiDi listening on ws://localhost:53987
+Read port: 53994
+1659011049401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileC6s67N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53987/devtools/browser/492b8e5b-7591-4219-95f6-c4558fde4096
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011054477	Marionette	INFO	Stopped listening on port 53994
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953694
+1659011055775	geckodriver	INFO	Listening on 127.0.0.1:54033
+1659011055990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekyqqgM"
+*** You are running in headless mode.
+1659011056687	Marionette	INFO	Marionette enabled
+1659011056692	Marionette	INFO	Listening on port 54042
+WebDriver BiDi listening on ws://localhost:54034
+Read port: 54042
+1659011056852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekyqqgM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54034/devtools/browser/0985128e-9ecf-4fed-b078-adbf431fc811
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011061937	Marionette	INFO	Stopped listening on port 54042
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953695
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 720: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1659011063176	geckodriver	INFO	Listening on 127.0.0.1:54079
+1659011063364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54080" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile5ZtraN"
+*** You are running in headless mode.
+1659011064079	Marionette	INFO	Marionette enabled
+1659011064085	Marionette	INFO	Listening on port 54088
+WebDriver BiDi listening on ws://localhost:54080
+Read port: 54088
+1659011064304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile5ZtraN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54080/devtools/browser/d3e7b090-e9c9-4c23-9ea5-b7baafe26c84
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+1659011069909	Marionette	INFO	Stopped listening on port 54088
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953693
