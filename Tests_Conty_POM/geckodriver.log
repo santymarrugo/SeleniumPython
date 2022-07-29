@@ -2878,3 +2878,438 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
 JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
 JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\MARR80~1\AppData\Local\Temp\rust_mozprofileL57TxX\bookmarkbackups\bookmarks-2022-07-28_11_l79l7JtazXbJSTE8tWvEIQ==.jsonlz4) because it does not exist
+1659097218111	Marionette	INFO	Stopped listening on port 65422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e	INFO	Listening on port 49269
+WebDriver BiDi listening on ws://localhost:49261
+Read port: 49269
+1659041539044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelLkYel\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49261/devtools/browser/b047a75e-afd2-476d-8121-253fb945be0c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659097218110	Marionette	INFO	Stopped listening on port 49269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659097934409	geckodriver	INFO	Listening on 127.0.0.1:62721
+1659097934739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiJGuk8"
+1659097935329	Marionette	INFO	Marionette enabled
+1659097935334	Marionette	INFO	Listening on port 62732
+WebDriver BiDi listening on ws://localhost:62722
+Read port: 62732
+1659097935551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiJGuk8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62722/devtools/browser/b58ee5e9-33e5-4f26-952f-1fc933b626b2
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098228501	Marionette	INFO	Stopped listening on port 62732
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3nq1hd"
+1659098018248	Marionette	INFO	Marionette enabled
+1659098018252	Marionette	INFO	Listening on port 62852
+WebDriver BiDi listening on ws://localhost:62844
+Read port: 62852
+1659098018458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3nq1hd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62844/devtools/browser/5ba77c6b-b5f4-485d-a23a-360559f8bb13
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098228460	Marionette	INFO	Stopped listening on port 62852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekIB1mP"
+1659098072414	Marionette	INFO	Marionette enabled
+1659098072419	Marionette	INFO	Listening on port 62971
+WebDriver BiDi listening on ws://localhost:62963
+Read port: 62971
+1659098072630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekIB1mP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62963/devtools/browser/bc5c0b7c-3ec1-4101-bb21-acd15fe40ae5
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098228491	Marionette	INFO	Stopped listening on port 62971
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJavQ0Q"
+1659098175779	Marionette	INFO	Marionette enabled
+1659098175783	Marionette	INFO	Listening on port 63098
+WebDriver BiDi listening on ws://localhost:63091
+Read port: 63098
+1659098175919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJavQ0Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63091/devtools/browser/e360af11-75f2-4022-a1a0-53e2fd0e768c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098188735	Marionette	INFO	Stopped listening on port 63098
+1659098310231	geckodriver	INFO	Listening on 127.0.0.1:63242
+1659098310610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileyVbQNf"
+1659098311012	Marionette	INFO	Marionette enabled
+1659098311016	Marionette	INFO	Listening on port 63250
+WebDriver BiDi listening on ws://localhost:63243
+Read port: 63250
+1659098311168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileyVbQNf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63243/devtools/browser/2473144f-e764-43e6-a3c2-ab037400292f
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098343628	Marionette	INFO	Stopped listening on port 63250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098356669	geckodriver	INFO	Listening on 127.0.0.1:63340
+1659098357020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemlDo4s"
+1659098357462	Marionette	INFO	Marionette enabled
+1659098357465	Marionette	INFO	Listening on port 63350
+WebDriver BiDi listening on ws://localhost:63341
+Read port: 63350
+1659098357601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemlDo4s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63341/devtools/browser/bd9035e5-e301-450c-b40c-adb798b6f550
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098379652	Marionette	INFO	Stopped listening on port 63350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098446363	geckodriver	INFO	Listening on 127.0.0.1:63539
+1659098446742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileaMzExt"
+1659098447289	Marionette	INFO	Marionette enabled
+1659098447294	Marionette	INFO	Listening on port 63554
+WebDriver BiDi listening on ws://localhost:63540
+Read port: 63554
+1659098447472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileaMzExt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63540/devtools/browser/371f28e1-a452-437b-8875-07c61a8c408b
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098475224	Marionette	INFO	Stopped listening on port 63554
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098559192	geckodriver	INFO	Listening on 127.0.0.1:63717
+1659098559530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelFd48f"
+1659098559990	Marionette	INFO	Marionette enabled
+1659098559994	Marionette	INFO	Listening on port 63726
+WebDriver BiDi listening on ws://localhost:63718
+Read port: 63726
+1659098560121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelFd48f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63718/devtools/browser/d7ae4bc0-193b-49fc-aacd-0b980919dea7
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098577819	Marionette	INFO	Stopped listening on port 63726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098618086	geckodriver	INFO	Listening on 127.0.0.1:63818
+1659098618459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekP2dPC"
+1659098618896	Marionette	INFO	Marionette enabled
+1659098618900	Marionette	INFO	Listening on port 63826
+WebDriver BiDi listening on ws://localhost:63819
+Read port: 63826
+1659098619035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekP2dPC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63819/devtools/browser/831bdeaa-e4c9-4c67-a735-6622cc1a8662
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098645783	Marionette	INFO	Stopped listening on port 63826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098830898	geckodriver	INFO	Listening on 127.0.0.1:64093
+1659098831223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64094" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile1R51KU"
+1659098833299	Marionette	INFO	Marionette enabled
+1659098833302	Marionette	INFO	Listening on port 64102
+WebDriver BiDi listening on ws://localhost:64094
+Read port: 64102
+1659098833457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile1R51KU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64094/devtools/browser/3fe61c00-ef7b-4e3b-a5c2-64bf5278bd18
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659098860606	Marionette	INFO	Stopped listening on port 64102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659098928819	geckodriver	INFO	Listening on 127.0.0.1:64229
+1659098929150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiles8WB6R"
+1659098929588	Marionette	INFO	Marionette enabled
+1659098929593	Marionette	INFO	Listening on port 64237
+WebDriver BiDi listening on ws://localhost:64230
+Read port: 64237
+1659098929730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiles8WB6R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64230/devtools/browser/02cb0437-232c-4581-907f-2812451b718b
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659099302259	Marionette	INFO	Stopped listening on port 64237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile7SVXUx"
+1659099018716	Marionette	INFO	Marionette enabled
+1659099018720	Marionette	INFO	Listening on port 64356
+Read port: 64356
+WebDriver BiDi listening on ws://localhost:64348
+1659099018865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile7SVXUx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64348/devtools/browser/be2666e7-a7df-433a-a046-ad544a5a25e5
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659099300993	Marionette	INFO	Stopped listening on port 64356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilellbFqz"
+1659099074954	Marionette	INFO	Marionette enabled
+1659099074959	Marionette	INFO	Listening on port 64467
+Read port: 64467
+WebDriver BiDi listening on ws://localhost:64460
+1659099075110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilellbFqz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64460/devtools/browser/4588e219-52c0-4531-85b2-3ad9fa0e037c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659099297285	Marionette	INFO	Stopped listening on port 64467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659099908790	geckodriver	INFO	Listening on 127.0.0.1:65092
+1659099909154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileSlRWtb"
+1659099909598	Marionette	INFO	Marionette enabled
+1659099909602	Marionette	INFO	Listening on port 65100
+WebDriver BiDi listening on ws://localhost:65093
+Read port: 65100
+1659099909738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileSlRWtb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65093/devtools/browser/749bce10-bdf2-4184-9ae9-8e767e31c35c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101022454	Marionette	INFO	Stopped listening on port 65100
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilezhadtM"
+1659100637670	Marionette	INFO	Marionette enabled
+1659100637676	Marionette	INFO	Listening on port 65333
+WebDriver BiDi listening on ws://localhost:65326
+Read port: 65333
+1659100637827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilezhadtM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65326/devtools/browser/bd83920f-9eca-4523-bc70-afb6edf82208
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101022459	Marionette	INFO	Stopped listening on port 65333
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileAMguF4"
+1659100710862	Marionette	INFO	Marionette enabled
+1659100710866	Marionette	INFO	Listening on port 65429
+WebDriver BiDi listening on ws://localhost:65422
+Read port: 65429
+1659100711088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileAMguF4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65422/devtools/browser/d3bb7480-957f-4bcf-85d2-3e40b5da90ea
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101022452	Marionette	INFO	Stopped listening on port 65429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilek8xrTK"
+1659100997756	Marionette	INFO	Marionette enabled
+1659100997761	Marionette	INFO	Listening on port 49152
+WebDriver BiDi listening on ws://localhost:65528
+Read port: 49152
+1659100997930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilek8xrTK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65528/devtools/browser/f900e147-3073-4c59-8eac-95dd7d1bb253
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101019730	Marionette	INFO	Stopped listening on port 49152
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659101162194	geckodriver	INFO	Listening on 127.0.0.1:49265
+1659101162539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileivUVi5"
+1659101162987	Marionette	INFO	Marionette enabled
+1659101162992	Marionette	INFO	Listening on port 49275
+WebDriver BiDi listening on ws://localhost:49266
+Read port: 49275
+1659101163130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileivUVi5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49266/devtools/browser/42005b73-a76a-4727-ae5c-680a7af0817c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101861503	Marionette	INFO	Stopped listening on port 49275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49343" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileem8rWn"
+1659101187760	Marionette	INFO	Marionette enabled
+1659101187765	Marionette	INFO	Listening on port 49350
+WebDriver BiDi listening on ws://localhost:49343
+Read port: 49350
+1659101187905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileem8rWn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49343/devtools/browser/cdd976da-0c91-4339-8cab-63efd834c72a
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101861835	Marionette	INFO	Stopped listening on port 49350
+9101437066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileIU3z5P"
+1659101437527	Marionette	INFO	Marionette enabled
+1659101437531	Marionette	INFO	Listening on port 49790
+WebDriver BiDi listening on ws://localhost:49783
+Read port: 49790
+1659101437709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileIU3z5P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49783/devtools/browser/7b0f2881-4eeb-46a6-ac96-1e8e4a10af1c
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101861565	Marionette	INFO	Stopped listening on port 49790
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9dkd78"
+1659101734477	Marionette	INFO	Marionette enabled
+1659101734481	Marionette	INFO	Listening on port 50099
+WebDriver BiDi listening on ws://localhost:50091
+Read port: 50099
+1659101734624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9dkd78\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50091/devtools/browser/89b3fd15-b8e1-4cba-88d1-2fe2111e0de9
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101861835	Marionette	INFO	Stopped listening on port 50099
+9101773318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegAIk21"
+1659101773828	Marionette	INFO	Marionette enabled
+1659101773832	Marionette	INFO	Listening on port 50198
+WebDriver BiDi listening on ws://localhost:50191
+Read port: 50198
+1659101773978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilegAIk21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50191/devtools/browser/fef593d0-b6e4-4097-8df5-8c45ad5835c9
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659101861544	Marionette	INFO	Stopped listening on port 50198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659101897390	geckodriver	INFO	Listening on 127.0.0.1:50356
+1659101897741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefpQL9B"
+1659101898211	Marionette	INFO	Marionette enabled
+1659101898215	Marionette	INFO	Listening on port 50364
+WebDriver BiDi listening on ws://localhost:50357
+Read port: 50364
+1659101898347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefpQL9B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50357/devtools/browser/be0fcb55-c6a7-4530-a1eb-563e24066fa3
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659102042793	Marionette	INFO	Stopped listening on port 50364
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile6nAZFe"
+1659102006813	Marionette	INFO	Marionette enabled
+1659102006818	Marionette	INFO	Listening on port 50454
+WebDriver BiDi listening on ws://localhost:50447
+Read port: 50454
+1659102006990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile6nAZFe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50447/devtools/browser/608efa81-831d-4bad-ad6f-0f7c4a8eece8
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659102042761	Marionette	INFO	Stopped listening on port 50454
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
