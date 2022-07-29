@@ -34,6 +34,7 @@ class CrearAsiento(unittest.TestCase):
         self.page_crear_asiento.escribirMesAnioAsiento("12/2022")
         self.page_crear_asiento.clickBtnAceptarAsientos()
         self.page_crear_asiento.verificarTituloVentana("Asientos 12/2022")
+        self.page_crear_asiento.escribirLineaAsiento()
 
     def tearDown(self):
         pass
