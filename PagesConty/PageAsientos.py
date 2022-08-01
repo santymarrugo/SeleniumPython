@@ -14,13 +14,11 @@ class PageAsientos:
 
         self.btnMenuPrincipal = (By.XPATH, "//span[contains(@id,'iconMenu_topToggle')]")
         self.opCarpetas = (By.XPATH, "//a[contains(@id,'v-pills-carpetas-tab')]")
-        self.opAsiento = (
-        By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
+        self.opAsiento = (By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
         self.labelAsientoModal = (By.XPATH, "//LABEL[@id='exampleModalLongTitleAsientos']")
         self.rbCrearMes = (By.XPATH, "//input[contains(@id,'inputAsiento1')]")
         self.inputMesAnio = (By.XPATH, "//input[contains(@id,'FechaNuevoAsiento')]")
-        self.btnAceptarAsientos = (
-        By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
+        self.btnAceptarAsientos = (By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
         self.rbEditarMesAsiento = (By.XPATH, "//input[contains(@id,'inputAsiento2')]")
         self.rbPrimerMes = (By.XPATH, "//input[contains(@value,'1/2022')]")
         self.lblVerificarMesAsiento = (By.XPATH, "//LABEL[@id='inicio']")

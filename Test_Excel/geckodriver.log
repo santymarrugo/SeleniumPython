@@ -1,0 +1,37 @@
+1659384900137	geckodriver	INFO	Listening on 127.0.0.1:49854
+1659384900564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilem6Na6V"
+1659384925773	geckodriver	INFO	Listening on 127.0.0.1:49892
+1659384926236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJq2pQL"
+1659384926804	Marionette	INFO	Marionette enabled
+1659384926810	Marionette	INFO	Listening on port 49900
+WebDriver BiDi listening on ws://localhost:49893
+Read port: 49900
+1659384926983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJq2pQL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49893/devtools/browser/cbd4815d-0988-400d-ada6-fd59fcb9c312
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://testingqarvn.com.es"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 112: Error: sendRemoveListener on closed conduit sba4b_firefox_quantum@checkpoint.com.137438953696
+1659385114983	Marionette	INFO	Stopped listening on port 49900
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+65889	Marionette	INFO	Marionette enabled
+1659385065895	Marionette	INFO	Listening on port 49994
+WebDriver BiDi listening on ws://localhost:49987
+Read port: 49994
+1659385066035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofiletN0rfz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49987/devtools/browser/5865f1c4-1599-4136-9ac8-72002abdac19
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://testingqarvn.com.es"
+1659385079223	Marionette	INFO	Stopped listening on port 49994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659385100884	geckodriver	INFO	Listening on 127.0.0.1:50035
+1659385101366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileZNkKkl"
+1659385101863	Marionette	INFO	Marionette enabled
+1659385101868	Marionette	INFO	Listening on port 50043
+WebDriver BiDi listening on ws://localhost:50036
+Read port: 50043
+1659385102017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileZNkKkl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50036/devtools/browser/eae83964-368e-4e9f-b2eb-cdd6efa379e0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://testingqarvn.com.es"
+1659385114986	Marionette	INFO	Stopped listening on port 50043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
