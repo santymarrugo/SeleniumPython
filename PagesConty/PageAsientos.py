@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.action_chains import ActionChains
 
+# Se crea una variable de tiempo para cuando se esten escribiendo los datos de la linea del asiento.
 t = 0.4
 
 
@@ -18,12 +19,12 @@ class PageAsientos:
         self.btnMenuPrincipal = (By.XPATH, "//span[contains(@id,'iconMenu_topToggle')]")
         self.opCarpetas = (By.XPATH, "//a[contains(@id,'v-pills-carpetas-tab')]")
         self.opAsiento = (
-        By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
+            By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
         self.labelAsientoModal = (By.XPATH, "//LABEL[@id='exampleModalLongTitleAsientos']")
         self.rbCrearMes = (By.XPATH, "//input[contains(@id,'inputAsiento1')]")
         self.inputMesAnio = (By.XPATH, "//input[contains(@id,'FechaNuevoAsiento')]")
         self.btnAceptarAsientos = (
-        By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
+            By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
         self.rbEditarMesAsiento = (By.XPATH, "//input[contains(@id,'inputAsiento2')]")
         self.rbPrimerMes = (By.XPATH, "//input[contains(@value,'1/2022')]")
         self.lblVerificarMesAsiento = (By.XPATH, "//LABEL[@id='inicio']")
@@ -76,36 +77,36 @@ class PageAsientos:
 
     # Metodo que nos permite escribir texto en la línea del asiento después de haber agregado una línea nueva
     def escribirLineaAsiento(self, fila, colDia, colDeb, colHab, colRut, colS, colConcep, colMone, colTot, colImp,
-                                colCoti, colLib, colTipo,  dia, debe, haber, rut, s, concepto, moneda, total, impuesto,
-                                IVA, libro, tipo):
+                             colCoti, colLib, colTipo, dia, debe, haber, rut, s, concepto, moneda, total, impuesto,
+                             IVA, libro, tipo):
         action = ActionChains(self.driver)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDia + ',"' + dia + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDia + ', "' + dia + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDeb + ',"' + debe + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDeb + ', "' + debe + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colHab + ',"' + haber + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colHab + ', "' + haber + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colS + ',"' + s + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colS + ', "' + s + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell('+fila+', '+colConcep+', "'+concepto+'")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ', ' + colConcep + ', "' + concepto + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colMone + ',"' + moneda + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colMone + ', "' + moneda + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colTot + ',"' + total + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colTot + ', "' + total + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell('+fila+','+colLib+',"'+libro+'")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colLib + ', "' + libro + '")')
 
     # Metodo para eliminar lineas de asientos
     def eliminarLineasAsientos(self):
         pass
-    
+
     # Metodo para hacer click en el radiobutton para crear un mes nuevo de asientos
     def clickCrearMes(self):
         WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.rbPrimerMes))
