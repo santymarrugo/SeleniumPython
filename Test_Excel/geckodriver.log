@@ -331,8 +331,9 @@ Read port: 53840
 1659393026421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilerCYWJO\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:53833/devtools/browser/49207205-7fe2-417b-8df9-8a9b67aa7a87
-1659393034407	geckodriver	INFO	Listening on 127.0.0.1:53865
-1659393034871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemCrxtp"
+1659393215054	Marionette	INFO	Stopped listening on port 53840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemCrxtp"
 1659393035497	Marionette	INFO	Marionette enabled
 1659393035503	Marionette	INFO	Listening on port 53874
 WebDriver BiDi listening on ws://localhost:53866
@@ -341,3 +342,31 @@ Read port: 53874
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilemCrxtp\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:53866/devtools/browser/3e779af1-f499-46b3-8e88-a7d20bc7ac9b
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://testingqarvn.com.es"
+1659393212443	Marionette	INFO	Stopped listening on port 53874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659463954312	geckodriver	INFO	Listening on 127.0.0.1:62452
+1659463954821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile2emgx4"
+1659463955670	Marionette	INFO	Marionette enabled
+1659463955677	Marionette	INFO	Listening on port 62460
+WebDriver BiDi listening on ws://localhost:62453
+Read port: 62460
+1659463955962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://sc1.checkpoint.com/sba/ga/check_point_sandblast_agent_for_browsers.xpi
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile2emgx4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62453/devtools/browser/5ab4066d-707d-47e9-adcf-644cfa05b37e
+1659463981845	Marionette	INFO	Stopped listening on port 62460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileqiSmiU"
+1659463967475	Marionette	INFO	Marionette enabled
+1659463967480	Marionette	INFO	Listening on port 62496
+WebDriver BiDi listening on ws://localhost:62487
+Read port: 62496
+1659463967724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://sc1.checkpoint.com/sba/ga/check_point_sandblast_agent_for_browsers.xpi
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileqiSmiU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62487/devtools/browser/31c225cc-ac48-492f-a257-7d7a43af7044
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://testingqarvn.com.es"
+1659463980429	Marionette	INFO	Stopped listening on port 62496
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

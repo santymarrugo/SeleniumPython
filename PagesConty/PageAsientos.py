@@ -4,6 +4,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.common.action_chains import ActionChains
+
+t = 0.4
 
 
 class PageAsientos:
@@ -14,15 +17,19 @@ class PageAsientos:
 
         self.btnMenuPrincipal = (By.XPATH, "//span[contains(@id,'iconMenu_topToggle')]")
         self.opCarpetas = (By.XPATH, "//a[contains(@id,'v-pills-carpetas-tab')]")
-        self.opAsiento = (By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
+        self.opAsiento = (
+        By.XPATH, "(//a[@class='nav-link menuTopToggleSubOption menuTopToggleText'][contains(.,'Asientos')])[3]")
         self.labelAsientoModal = (By.XPATH, "//LABEL[@id='exampleModalLongTitleAsientos']")
         self.rbCrearMes = (By.XPATH, "//input[contains(@id,'inputAsiento1')]")
         self.inputMesAnio = (By.XPATH, "//input[contains(@id,'FechaNuevoAsiento')]")
-        self.btnAceptarAsientos = (By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
+        self.btnAceptarAsientos = (
+        By.XPATH, "//button[contains(@class,'btn btn-danger popupBotonAceptar btnCargarAsientos')]")
         self.rbEditarMesAsiento = (By.XPATH, "//input[contains(@id,'inputAsiento2')]")
         self.rbPrimerMes = (By.XPATH, "//input[contains(@value,'1/2022')]")
         self.lblVerificarMesAsiento = (By.XPATH, "//LABEL[@id='inicio']")
         self.btnNuevaLinea = (By.XPATH, "//i[@class='material-icons'][contains(.,'note_add')]")
+        self.btnTerminar = (By.XPATH, "//i[contains(text(),'check')]")
+        self.rbMesDic = (By.XPATH, "//input[contains(@value,'12/2022')]")
 
     '''
     Metodo para acceder a la opcion Asientos y que se muestre el PopUp para escoger la fecha del asiento
@@ -68,31 +75,50 @@ class PageAsientos:
         self.driver.find_element(*self.btnNuevaLinea).click()
 
     # Metodo que nos permite escribir texto en la línea del asiento después de haber agregado una línea nueva
-    def escribirLineaAsiento(self):
-        self.driver.execute_script('hot.selectCell(0,5)')
-        self.driver.execute_script('hot.setDataAtCell(0,5,"12")')
-        self.driver.execute_script('hot.setDataAtCell(0,6,"11111")')
-        self.driver.execute_script('hot.setDataAtCell(0,7,"41113")')
-        self.driver.execute_script('hot.setDataAtCell(0,9,"1")')
-        self.driver.execute_script('hot.setDataAtCell(0,10,"Prueba Selenium con Python")')
-        self.driver.execute_script('hot.setDataAtCell(0,11,"1")')
-        self.driver.execute_script('hot.setDataAtCell(0,12,"12500")')
-        self.driver.execute_script('hot.setDataAtCell(0,19,"I")')
-        PageAsientos(self.driver).clickAgregarLineaAsiento()
-        self.driver.execute_script('hot.selectCell(1,5)')
-        self.driver.execute_script('hot.setDataAtCell(1,5,"12")')
-        self.driver.execute_script('hot.setDataAtCell(1,6,"11111")')
-        self.driver.execute_script('hot.setDataAtCell(1,7,"41113")')
-        self.driver.execute_script('hot.setDataAtCell(1,9,"1")')
-        self.driver.execute_script('hot.setDataAtCell(1,10,"Prueba Selenium con Python_linea2")')
-        self.driver.execute_script('hot.setDataAtCell(1,11,"1")')
-        self.driver.execute_script('hot.setDataAtCell(1,12,"50000")')
-        self.driver.execute_script('hot.setDataAtCell(1,19,"I")')
+    def escribirLineaAsiento(self, fila, colDia, colDeb, colHab, colRut, colS, colConcep, colMone, colTot, colImp,
+                                colCoti, colLib, colTipo,  dia, debe, haber, rut, s, concepto, moneda, total, impuesto,
+                                IVA, libro, tipo):
+        action = ActionChains(self.driver)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDia + ',"' + dia + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colDeb + ',"' + debe + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colHab + ',"' + haber + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colS + ',"' + s + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell('+fila+', '+colConcep+', "'+concepto+'")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colMone + ',"' + moneda + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colTot + ',"' + total + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+        time.sleep(t)
+        self.driver.execute_script('hot.setDataAtCell('+fila+','+colLib+',"'+libro+'")')
 
+    # Metodo para eliminar lineas de asientos
+    def eliminarLineasAsientos(self):
+        pass
+    
     # Metodo para hacer click en el radiobutton para crear un mes nuevo de asientos
     def clickCrearMes(self):
         WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.rbPrimerMes))
         self.driver.find_element(*self.rbCrearMes).click()
+
+    # Metodo para hacer click en el radiobutton para crear un mes nuevo de asientos
+    def clickMesDiciembre(self):
+        WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.rbMesDic))
+        self.driver.find_element(*self.rbMesDic).click()
+
+    # Metodo para hacer click en el boton Terminar
+    def clickBotonTerminar(self):
+        self.driver.find_element(*self.btnTerminar).click()
 
     # Metodo para escribir el mes nuevo a crear
     def escribirMesAnioAsiento(self, fecha):
