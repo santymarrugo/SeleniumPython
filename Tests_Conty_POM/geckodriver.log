@@ -5812,3 +5812,860 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1659546892379	Marionette	INFO	Stopped listening on port 56530
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659553025809	geckodriver	INFO	Listening on 127.0.0.1:61326
+1659553026196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileYaaQVb"
+1659553027047	Marionette	INFO	Marionette enabled
+1659553027053	Marionette	INFO	Listening on port 61336
+WebDriver BiDi listening on ws://localhost:61327
+Read port: 61336
+1659553027220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileYaaQVb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61327/devtools/browser/4873eb52-98bb-40a1-9ea1-0fc236b8737e
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659553055650	Marionette	INFO	Stopped listening on port 61331659553055762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelDz079"
+1659553057931	Marionette	INFO	Marionette enabled
+1659553057938	Marionette	INFO	Listening on port 61430
+WebDriver BiDi listening on ws://localhost:61420
+Read port: 61430
+1659553058123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelDz079\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61420/devtools/browser/ecfb6fa7-f5a1-4053-9520-331c0d2cfc43
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659553127721	Marionette	INFO	Stopped listening on port 61430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659553981117	geckodriver	INFO	Listening on 127.0.0.1:62401
+1659553981611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileHxykIp"
+1659553982297	Marionette	INFO	Marionette enabled
+1659553982301	Marionette	INFO	Listening on port 62409
+WebDriver BiDi listening on ws://localhost:62402
+Read port: 62409
+1659553982429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileHxykIp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62402/devtools/browser/a431e676-5a19-4ff3-bace-d0ff6ce5cffa
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659554002951	Marionette	INFO	Stopped listening on port 62409
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659554005448	geckodriver	INFO	Listening on 127.0.0.1:62487
+1659554005951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilef5GpkS"
+1659554006920	Marionette	INFO	Marionette enabled
+1659554006923	Marionette	INFO	Listening on port 62495
+WebDriver BiDi listening on ws://localhost:62488
+Read port: 62495
+1659554007056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilef5GpkS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62488/devtools/browser/0b61e0e8-686c-4b56-8a7f-a85965a21344
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659554023530	Marionette	INFO	Stopped listening on port 62495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659554025836	geckodriver	INFO	Listening on 127.0.0.1:62552
+1659554026289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileho2a7G"
+1659554027134	Marionette	INFO	Marionette enabled
+1659554027138	Marionette	INFO	Listening on port 62560
+WebDriver BiDi listening on ws://localhost:62553
+Read port: 62560
+1659554027292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileho2a7G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62553/devtools/browser/cf1cedfd-2627-4a09-9210-0a1d6c7d451b
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659554059608	Marionette	INFO	Stopped listening on port 62560
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659554062194	geckodriver	INFO	Listening on 127.0.0.1:62640
+1659554062690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiFryIs"
+1659554063292	Marionette	INFO	Marionette enabled
+1659554063295	Marionette	INFO	Listening on port 62648
+WebDriver BiDi listening on ws://localhost:62641
+Read port: 62648
+1659554063549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiFryIs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62641/devtools/browser/75e31ef3-e42c-4e10-9ac1-ca15b37e0e36
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659554268917	Marionette	INFO	Stopped listening on port 62648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+(new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9lC5rX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62740/devtools/browser/6c8234bb-cab5-4634-b1aa-5773a8489455
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659554268440	Marionette	INFO	Stopped listening on port 62747
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefYDGN7"
+1659554197741	Marionette	INFO	Marionette enabled
+1659554197745	Marionette	INFO	Listening on port 62878
+WebDriver BiDi listening on ws://localhost:62871
+Read port: 62878
+1659554197858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefYDGN7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62871/devtools/browser/e4027f67-7c04-478b-bd27-7c474a857062
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659554267918	Marionette	INFO	Stopped listening on port 62878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659554308955	geckodriver	INFO	Listening on 127.0.0.1:63096
+1659554309428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileC7ul0U"
+1659554309981	Marionette	INFO	Marionette enabled
+1659554309986	Marionette	INFO	Listening on port 63104
+WebDriver BiDi listening on ws://localhost:63097
+Read port: 63104
+1659554310244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileC7ul0U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63097/devtools/browser/56f49020-85e3-47b3-8bee-3e3f447403df
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659554494426	Marionette	INFO	Stopped listening on port 63104
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile0YRYpc"
+1659554441095	Marionette	INFO	Marionette enabled
+1659554441099	Marionette	INFO	Listening on port 63224
+WebDriver BiDi listening on ws://localhost:63217
+Read port: 63224
+1659554441224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile0YRYpc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63217/devtools/browser/c288dcc2-d95c-4c16-97c8-5a17e4043ae2
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659554492908	Marionette	INFO	Stopped listening on port 63224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659554497270	geckodriver	INFO	Listening on 127.0.0.1:63350
+1659554497723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekOqiKm"
+1659554498562	Marionette	INFO	Marionette enabled
+1659554498567	Marionette	INFO	Listening on port 63358
+WebDriver BiDi listening on ws://localhost:63351
+Read port: 63358
+1659554498753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilekOqiKm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63351/devtools/browser/c2cc571d-386a-4399-8e68-ab1fa0ad1a5a
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555413593	Marionette	INFO	Stopped listening on port 63358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileZNReaN"
+1659554572208	Marionette	INFO	Marionette enabled
+1659554572212	Marionette	INFO	Listening on port 63465
+WebDriver BiDi listening on ws://localhost:63458
+Read port: 63465
+1659554572361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileZNReaN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63458/devtools/browser/fcfc993b-2ca8-4731-962c-cffd963d1133
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555413549	Marionette	INFO	Stopped listening on port 63465
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3B75yZ"
+1659554758938	Marionette	INFO	Marionette enabled
+1659554758942	Marionette	INFO	Listening on port 63589
+WebDriver BiDi listening on ws://localhost:63582
+Read port: 63589
+1659554759171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile3B75yZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63582/devtools/browser/7c5d59ad-b0a0-480c-9052-f633ee6844c9
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555413547	Marionette	INFO	Stopped listening on port 63589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileeH3B3T"
+1659555172660	Marionette	INFO	Marionette enabled
+1659555172665	Marionette	INFO	Listening on port 63853
+WebDriver BiDi listening on ws://localhost:63845
+Read port: 63853
+1659555172788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileeH3B3T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63845/devtools/browser/9149d5a8-7bfa-4c60-ba30-0497bc81d701
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555413555	Marionette	INFO	Stopped listening on port 63853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659555415876	geckodriver	INFO	Listening on 127.0.0.1:64014
+1659555416362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile5zObjq"
+1659555417176	Marionette	INFO	Marionette enabled
+1659555417181	Marionette	INFO	Listening on port 64023
+WebDriver BiDi listening on ws://localhost:64015
+Read port: 64023
+1659555417351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile5zObjq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64015/devtools/browser/2abe10ba-3181-4910-ae5f-b221d608be5b
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659555574338	geckodriver	INFO	Listening on 127.0.0.1:64153
+1659555574818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileeUi9Ew"
+1659555575667	Marionette	INFO	Marionette enabled
+1659555575671	Marionette	INFO	Listening on port 64161
+WebDriver BiDi listening on ws://localhost:64154
+Read port: 64161
+1659555575877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileeUi9Ew\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64154/devtools/browser/8b6eb959-c340-4cee-b396-f7aed5bee296
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659555610254	geckodriver	INFO	Listening on 127.0.0.1:64214
+1659555610743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileGXomQG"
+1659555611706	Marionette	INFO	Marionette enabled
+1659555611710	Marionette	INFO	Listening on port 64222
+WebDriver BiDi listening on ws://localhost:64215
+Read port: 64222
+1659555611835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileGXomQG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64215/devtools/browser/e6be39d9-f337-43fd-8fdd-c3a196509e79
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555985558	Marionette	INFO	Stopped listening on port 64222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+(new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileOLwDmm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64310/devtools/browser/dbf50501-56ab-4fc2-b042-289ee1378f17
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555984967	Marionette	INFO	Stopped listening on port 64317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileU2TAPI"
+1659555828217	Marionette	INFO	Marionette enabled
+1659555828221	Marionette	INFO	Listening on port 64443
+WebDriver BiDi listening on ws://localhost:64425
+Read port: 64443
+1659555828445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileU2TAPI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64425/devtools/browser/c44980c7-f26b-4924-b9b0-d28c99bf2ef0
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659555983919	Marionette	INFO	Stopped listening on port 64443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659556344382	geckodriver	INFO	Listening on 127.0.0.1:64696
+1659556344896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiYVzNL"
+1659556345409	Marionette	INFO	Marionette enabled
+1659556345414	Marionette	INFO	Listening on port 64708
+WebDriver BiDi listening on ws://localhost:64697
+Read port: 64708
+1659556345554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileiYVzNL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64697/devtools/browser/9f6029d8-ce4d-4ac1-88de-e31356caf2dd
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+1659556352899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659556353736	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659558503333	Marionette	INFO	Stopped listening on port 64708
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+(new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilesljvYz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64794/devtools/browser/889bbe9f-77f7-48d1-a477-183ed2f2a01e
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+1659556391731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659556392542	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659556395205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659556397359	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659556401806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659558502800	Marionette	INFO	Stopped listening on port 64801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+(new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilenDk8sS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64898/devtools/browser/fa0a0cc2-bce1-431f-bffc-fb6e75e7a7a8
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659556447674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659558502331	Marionette	INFO	Stopped listening on port 64905
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileijwHSu"
+1659556555578	Marionette	INFO	Marionette enabled
+1659556555582	Marionette	INFO	Listening on port 65033
+WebDriver BiDi listening on ws://localhost:65026
+Read port: 65033
+1659556555788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileijwHSu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65026/devtools/browser/743d5e26-5035-491d-ac4c-79144ac3f65e
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659558501861	Marionette	INFO	Stopped listening on port 65033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileEY6J8R"
+1659556650348	Marionette	INFO	Marionette enabled
+1659556650353	Marionette	INFO	Listening on port 65142
+WebDriver BiDi listening on ws://localhost:65135
+Read port: 65142
+1659556650470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileEY6J8R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65135/devtools/browser/a710d7ec-a68c-41d4-a2d6-f1866aff46a7
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659557691673	Marionette	INFO	Stopped listening on port 65142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659557347848	Marionette	INFO	Stopped listening on port 65318
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659557689652	geckodriver	INFO	Listening on 127.0.0.1:49718
+1659557690127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileH8lXbZ"
+1659557691096	Marionette	INFO	Marionette enabled
+1659557691101	Marionette	INFO	Listening on port 49726
+WebDriver BiDi listening on ws://localhost:49719
+Read port: 49726
+1659557691208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileH8lXbZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49719/devtools/browser/e154d31a-db05-491b-b5bb-409729a06843
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659558500534	Marionette	INFO	Stopped listening on port 49726
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659558515362	geckodriver	INFO	Listening on 127.0.0.1:50062
+1659558515852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileFMwLOf"
+1659558516450	Marionette	INFO	Marionette enabled
+1659558516455	Marionette	INFO	Listening on port 50070
+Read port: 50070
+WebDriver BiDi listening on ws://localhost:50063
+1659558516586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileFMwLOf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50063/devtools/browser/c91b3e8d-8068-4b74-9e12-46d4189849dc
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659560321173	Marionette	INFO	Stopped listening on port 50070
+9558604283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileDE4PZn"
+1659558604937	Marionette	INFO	Marionette enabled
+1659558604943	Marionette	INFO	Listening on port 50201
+WebDriver BiDi listening on ws://localhost:50194
+Read port: 50201
+1659558605075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileDE4PZn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50194/devtools/browser/01d2ba69-adbe-43d6-b7d3-f3c6a2644368
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Unable to find target with innerWindowId:4294967301"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659560321514	Marionette	INFO	Stopped listening on port 50201
+e-debugging-port" "50350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9rIhDt"
+1659558835330	Marionette	INFO	Marionette enabled
+1659558835333	Marionette	INFO	Listening on port 50357
+WebDriver BiDi listening on ws://localhost:50350
+Read port: 50357
+1659558835448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile9rIhDt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50350/devtools/browser/3cb788fc-b1f1-42ec-bc34-2d0e0639fcf9
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659560321651	Marionette	INFO	Stopped listening on port 50357
+9558889483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile4AT4lh"
+1659558890257	Marionette	INFO	Marionette enabled
+1659558890261	Marionette	INFO	Listening on port 50456
+WebDriver BiDi listening on ws://localhost:50449
+Read port: 50456
+1659558890390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofile4AT4lh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50449/devtools/browser/9dafb7f7-916a-492e-bb41-eb94b297c077
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659560321495	Marionette	INFO	Stopped listening on port 50456
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelpDUh0"
+1659558932662	Marionette	INFO	Marionette enabled
+1659558932670	Marionette	INFO	Listening on port 50571
+WebDriver BiDi listening on ws://localhost:50562
+Read port: 50571
+1659558932859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilelpDUh0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50562/devtools/browser/0714e0d0-1c76-4788-8ffc-42f269819cc4
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+1659558942740	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659558945925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659558948094	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+1659558953757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659558954559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659558961650	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659558964400	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659558965124	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659558965955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1659560321540	Marionette	INFO	Stopped listening on port 50571
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJslX6f"
+1659559518382	Marionette	INFO	Marionette enabled
+1659559518386	Marionette	INFO	Listening on port 51110
+WebDriver BiDi listening on ws://localhost:51103
+Read port: 51110
+1659559518511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofileJslX6f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51103/devtools/browser/24fc7f95-3f48-4455-84c4-890376db1d9e
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659559820971	Marionette	INFO	Stopped listening on port 51110
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefWflOB"
+1659559543638	Marionette	INFO	Marionette enabled
+1659559543646	Marionette	INFO	Listening on port 51218
+WebDriver BiDi listening on ws://localhost:51211
+Read port: 51218
+1659559543840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefWflOB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51211/devtools/browser/27283ab4-19c1-472c-bb57-894509372672
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659559819584	Marionette	INFO	Stopped listening on port 51218
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefuDrSi"
+1659559607511	Marionette	INFO	Marionette enabled
+1659559607516	Marionette	INFO	Listening on port 51353
+WebDriver BiDi listening on ws://localhost:51346
+Read port: 51353
+1659559607675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefuDrSi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51346/devtools/browser/0cb9328e-f757-4176-953a-0cf60ae3cf4b
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1659560321282	Marionette	INFO	Stopped listening on port 51353
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefsvPRY"
+1659560192394	Marionette	INFO	Marionette enabled
+1659560192398	Marionette	INFO	Listening on port 51885
+WebDriver BiDi listening on ws://localhost:51877
+Read port: 51885
+1659560192558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MARR80~1\\AppData\\Local\\Temp\\rust_mozprofilefsvPRY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51877/devtools/browser/5a177c18-14a7-42cb-a00d-88e7a486c414
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/altair_admin_common.min.js, line 1: TypeError: $(...).velocity is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/uikit_custom.min.js, line 5: TypeError: $.bez is not a function
+JavaScript error: https://cuentas.memory.com.uy/Scripts/js/forms_validation.min.js, line 1: TypeError: i.parsley is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cuentas.memory.com.uy"
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+JavaScript error: https://memorycontywebtesting.azurewebsites.net/js/ValidacionesPermisos.js?v=tG2ektzUq4rUHD11b2gzVEp4iRzAupQA6Um6-mzdQ1A, line 18: TypeError: e.path is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://memorycontywebtesting.azurewebsites.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.error: "Unable to find target with innerWindowId:4294967304"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1659560321287	Marionette	INFO	Stopped listening on port 51885
+!!! error running onStopped callback: TypeError: callback is not a function

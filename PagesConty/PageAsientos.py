@@ -5,15 +5,16 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.actions.key_actions import KeyActions
 
-# Se crea una variable de tiempo para cuando se esten escribiendo los datos de la linea del asiento.
-t = 0.4
+# Se crea una variable de tiempo para cuando se estén escribiendo los datos de la línea del asiento.
+t = 0.5
 
 
 class PageAsientos:
 
     def __init__(self, driver):
-        # self.lineaNueva = None
+        # Aqui le pasamos el driver al metodo __init__, para inicializarlo.
         self.driver = driver
 
         self.btnMenuPrincipal = (By.XPATH, "//span[contains(@id,'iconMenu_topToggle')]")
@@ -31,6 +32,9 @@ class PageAsientos:
         self.btnNuevaLinea = (By.XPATH, "//i[@class='material-icons'][contains(.,'note_add')]")
         self.btnTerminar = (By.XPATH, "//i[contains(text(),'check')]")
         self.rbMesDic = (By.XPATH, "//input[contains(@value,'12/2022')]")
+        self.btnEliminarAsiento = (By.XPATH, "(//i[@class='material-icons'][contains(.,'clear')])[1]")
+        self.btnAceptarBorrarAsientos = (By.XPATH, "//button[contains(@id,'buttonBorrar')]")
+        self.modal = (By.XPATH, "(//div[contains(@class,'modal-backdrop fade show')])[3]")
 
     '''
     Metodo para acceder a la opcion Asientos y que se muestre el PopUp para escoger la fecha del asiento
@@ -59,10 +63,6 @@ class PageAsientos:
         WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.rbPrimerMes))
         self.driver.find_element(*self.rbPrimerMes).click()
 
-    # Metodo para hacer click en el boton Aceptar del Modal de Asientos
-    def clickBtnAceptarAsientos(self):
-        self.driver.find_element(*self.btnAceptarAsientos).click()
-
     # Metodo para verificar el texto de la parte superior izquierda y que nos indica en que parte de la plataforma estamos
     def verificarTituloVentana(self, mensaje):
         WebDriverWait(self.driver, 5).until(
@@ -70,10 +70,6 @@ class PageAsientos:
         tcAssert = unittest.TestCase("__init__")
         lblMesAsiento = self.driver.find_element(*self.lblVerificarMesAsiento).text
         tcAssert.assertEqual(lblMesAsiento, mensaje)
-
-    # Metodo para hacer click en el boton que agrega una nueva línea en el asiento
-    def clickAgregarLineaAsiento(self):
-        self.driver.find_element(*self.btnNuevaLinea).click()
 
     # Metodo que nos permite escribir texto en la línea del asiento después de haber agregado una línea nueva
     def escribirLineaAsiento(self, fila, colDia, colDeb, colHab, colRut, colS, colConcep, colMone, colTot, colImp,
@@ -89,7 +85,7 @@ class PageAsientos:
         self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colHab + ', "' + haber + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
-        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colS + ', "' + s + '")')
+        self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colS + ', "' + str(s) + '")')
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
         self.driver.execute_script('hot.setDataAtCell(' + fila + ', ' + colConcep + ', "' + concepto + '")')
@@ -99,13 +95,35 @@ class PageAsientos:
         action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
         time.sleep(t)
         self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colTot + ', "' + total + '")')
-        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
-        time.sleep(t)
+        for a in range(1, 6):
+            action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
+            time.sleep(t)
         self.driver.execute_script('hot.setDataAtCell(' + fila + ',' + colLib + ', "' + libro + '")')
+        action.key_down(Keys.ARROW_RIGHT).key_up(Keys.ARROW_RIGHT).perform()
 
-    # Metodo para eliminar lineas de asientos
-    def eliminarLineasAsientos(self):
-        pass
+    # Metodo para escribir el mes nuevo a crear
+    def escribirMesAnioAsiento(self, fecha):
+        self.driver.find_element(*self.inputMesAnio).click()
+        self.driver.find_element(*self.inputMesAnio).send_keys(Keys.CONTROL + "a")
+        self.driver.find_element(*self.inputMesAnio).send_keys(Keys.BACKSPACE)
+        self.driver.find_element(*self.inputMesAnio).send_keys(fecha)
+
+    # Metodo para eliminar líneas de asientos, se le pasa la fila inicial y la fila final
+    def eliminarLineasAsientos(self, filaInicial, filaFinal):
+        WebDriverWait(self.driver, 5).until(expected_conditions.element_to_be_clickable(self.btnEliminarAsiento))
+        self.driver.execute_script('hot.selectRows(' + filaInicial + ', ' + filaFinal + ')')
+
+    # Metodo para hacer click en el boton Eliminar
+    def clickBotonEliminar(self):
+        self.driver.find_element(*self.btnEliminarAsiento).click()
+
+    # Metodo para hacer click en boton Aceptar en el popup de Eliminar Asientos
+    def clickAceptarEliminarAsientos(self):
+        self.driver.find_element(*self.btnAceptarBorrarAsientos).click()
+
+    # Metodo para hacer click en el boton que agrega una nueva línea en el asiento
+    def clickAgregarLineaAsiento(self):
+        self.driver.find_element(*self.btnNuevaLinea).click()
 
     # Metodo para hacer click en el radiobutton para crear un mes nuevo de asientos
     def clickCrearMes(self):
@@ -121,9 +139,6 @@ class PageAsientos:
     def clickBotonTerminar(self):
         self.driver.find_element(*self.btnTerminar).click()
 
-    # Metodo para escribir el mes nuevo a crear
-    def escribirMesAnioAsiento(self, fecha):
-        self.driver.find_element(*self.inputMesAnio).click()
-        self.driver.find_element(*self.inputMesAnio).send_keys(Keys.CONTROL + "a")
-        self.driver.find_element(*self.inputMesAnio).send_keys(Keys.BACKSPACE)
-        self.driver.find_element(*self.inputMesAnio).send_keys(fecha)
+    # Metodo para hacer click en el boton Aceptar del Modal de Asientos
+    def clickBtnAceptarAsientos(self):
+        self.driver.find_element(*self.btnAceptarAsientos).click()

@@ -35,15 +35,15 @@ class CrearAsiento(unittest.TestCase):
         self.page_crear_asiento.clickBtnAceptarAsientos()
         self.page_crear_asiento.verificarTituloVentana("Asientos 12/2022")
         self.page_crear_asiento.escribirLineaAsiento("0", "5", "6", "7", "", "9", "10", "11", "12", "", "", "19", "",
-                                                     "12", "11111", "41113", "", "1", "PRUEBA SELENIUM", "0", "14500",
-                                                     "", "", "I", "")
-        self.page_crear_asiento.clickAgregarLineaAsiento()
-        self.page_crear_asiento.escribirLineaAsiento("1", "5", "6", "7", "", "9", "10", "11", "12", "", "", "19", "",
-                                                     "12", "11111", "41113", "", "1", "PRUEBA SELENIUM", "0", "14500",
-                                                     "", "", "I", "")
+                                                     "12", "11111", "41113", "", "1", "PRUEBA PYTON", "0", "14500", "",
+                                                     "", "I", "")
         self.page_crear_asiento.clickBotonTerminar()
         self.page_crear_asiento.clickMesDiciembre()
         self.page_crear_asiento.clickBtnAceptarAsientos()
+        self.page_crear_asiento.eliminarLineasAsientos("0", "0")
+        self.page_crear_asiento.clickBotonEliminar()
+        self.page_crear_asiento.clickAceptarEliminarAsientos()
+        # self.page_crear_asiento.clickBotonTerminar()
 
     def tearDown(self):
         pass
